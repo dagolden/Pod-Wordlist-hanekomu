@@ -1,6 +1,7 @@
 Revision history for Perl extension {{$dist->name}}
 
 {{$NEXT}}
+    - + "Metheringham" (nigelm) to make Pod-Weaver-PluginBundle-MARCEL pass
 
 1.102250  2010-08-13 14:33:51 Europe/Vienna
     - added: afterwards, nestable, lookup. Are these such strange words or is
