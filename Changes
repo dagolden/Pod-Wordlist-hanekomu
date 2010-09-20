@@ -1,6 +1,7 @@
 Revision history for Perl extension {{$dist->name}}
 
 {{$NEXT}}
+    + "benchmarked"
 
 1.102340  2010-08-22 20:04:59 Europe/Vienna
     - + "Metheringham" (nigelm) to make Pod-Weaver-PluginBundle-MARCEL pass

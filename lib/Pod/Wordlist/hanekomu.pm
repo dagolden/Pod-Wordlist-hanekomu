@@ -86,6 +86,7 @@ our @stopwords = qw(
   array's
   backend
   behaviour
+  benchmarked
   blog
   blogs
   bugtracker
