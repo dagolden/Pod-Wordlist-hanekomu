@@ -1,6 +1,8 @@
 Revision history for Perl extension {{$dist->name}}
 
 {{$NEXT}}
+
+1.102630  2010-09-20 15:21:26 Europe/Vienna
     + "benchmarked"
 
 1.102340  2010-08-22 20:04:59 Europe/Vienna
