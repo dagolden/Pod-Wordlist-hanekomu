@@ -124,6 +124,9 @@ our @stopwords = qw(
   monkeypatch
   monkeypatches
   monkeypatching
+  multi
+  multi-value
+  multi-valued
   munge
   munger
   munging
