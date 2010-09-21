@@ -1,6 +1,8 @@
 Revision history for Perl extension {{$dist->name}}
 
 {{$NEXT}}
+
+1.102640  2010-09-21 14:49:22 Europe/Vienna
     + "multi", "multi-value", "multi-valued"
 
 1.102630  2010-09-20 15:21:26 Europe/Vienna
