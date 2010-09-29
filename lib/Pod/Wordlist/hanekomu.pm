@@ -89,6 +89,8 @@ our @stopwords = qw(
   benchmarked
   blog
   blogs
+  breakpoint
+  breakpoints
   bugtracker
   bundle's
   callback
@@ -99,6 +101,7 @@ our @stopwords = qw(
   configurator
   configurators
   crosscutting
+  debugger's
   denormalized
   distname
   dotfile

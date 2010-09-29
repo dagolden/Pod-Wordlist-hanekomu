@@ -1,6 +1,7 @@
 Revision history for Perl extension {{$dist->name}}
 
 {{$NEXT}}
+    - added "breakpoint", "breakpoints", "debugger's"
 
 1.102640  2010-09-21 14:49:22 Europe/Vienna
     + "multi", "multi-value", "multi-valued"
