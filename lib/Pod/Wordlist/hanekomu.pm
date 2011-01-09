@@ -11,7 +11,10 @@ our @person_names = qw(
   Achim
   Adam
   Conway
+  Cushing
   Damian
+  Doherty
+  Doran
   Eilam
   Ekker
   Florian
