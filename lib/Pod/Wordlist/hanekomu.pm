@@ -156,6 +156,7 @@ our @stopwords = qw(
   san
   segment's
   shipit
+  sigils
   startup
   storable
   storages

@@ -1,6 +1,7 @@
 Revision history for Perl extension {{$dist->name}}
 
 {{$NEXT}}
+    - added "sigils"
 
 1.110090  2011-01-09 12:39:53 Europe/Vienna
     - added "breakpoint", "breakpoints", "debugger's"
