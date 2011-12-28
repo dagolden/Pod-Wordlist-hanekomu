@@ -1,6 +1,8 @@
 Revision history for Perl extension {{$dist->name}}
 
 {{$NEXT}}
+
+1.113620  2011-12-28 22:25:25 Europe/Vienna
     - added "Lapworth", "UTF", "aggregator", "aggregators", "probe's",
       "runtime", "seekable" and "sigils"
 
