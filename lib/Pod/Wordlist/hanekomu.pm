@@ -22,6 +22,7 @@ our @person_names = qw(
   Heinz
   Helmberger
   Hofstetter
+  Lapworth
   Marcel
   Mark
   Metheringham
@@ -74,6 +75,7 @@ our @tech_names = qw(
   svk
   TIMTOWTDI
   Unicode
+  UTF
   URI
   URIs
   W3CDTF
@@ -86,6 +88,8 @@ our @stopwords = qw(
   adaptees
   administrativa
   afterwards
+  aggregator
+  aggregators
   array's
   backend
   behaviour
@@ -150,10 +154,13 @@ our @stopwords = qw(
   pointcuts
   prepends
   preprocessed
+  probe's
   redispatch
   reusability
   ref
+  runtime
   san
+  seekable
   segment's
   shipit
   sigils
