@@ -1,7 +1,8 @@
 Revision history for Perl extension {{$dist->name}}
 
 {{$NEXT}}
-    - added "sigils"
+    - added "Lapworth", "UTF", "aggregator", "aggregators", "probe's",
+      "runtime", "seekable" and "sigils"
 
 1.110090  2011-01-09 12:39:53 Europe/Vienna
     - added "breakpoint", "breakpoints", "debugger's"
