@@ -40,16 +40,16 @@ our @tech_names = qw(
   AspectJ
   Babelfish
   CamelCase
+  Coro
   CPAN
   CPANPLUS
-  Coro
   DateTime
-  Django
   DBI
+  Django
   DSL
   EPP
-  FirePHP
   Firefox
+  FirePHP
   FIXME
   GraphViz
   GUID
@@ -63,12 +63,12 @@ our @tech_names = qw(
   ISP
   ISP's
   JSON
-  MVC
   MakeMaker
   Markdown
-  mkdn
   Middleware
+  mkdn
   modulino
+  MVC
   OO
   OOP
   PARC
@@ -81,17 +81,17 @@ our @tech_names = qw(
   Spiffy
   SQL
   SSL
+  STDERR
   STDIN
   STDOUT
-  STDERR
   svk
   TIMTOWTDI
   Unicode
-  UTF
   URI
-  URIs
   URI's
+  URIs
   UTC
+  UTF
   W3CDTF
   wiki
   XS
@@ -105,8 +105,8 @@ our @stopwords = qw(
   afterwards
   aggregator
   aggregators
-  array's
   analyses
+  array's
   backend
   behaviour
   benchmarked
@@ -140,10 +140,10 @@ our @stopwords = qw(
   init
   japanese
   Joseki
+  kwalitee
   locator
   lookup
   lookups
-  kwalitee
   marshalling
   metadata
   middleware
@@ -173,8 +173,8 @@ our @stopwords = qw(
   preprocessed
   probe's
   redispatch
-  reusability
   ref
+  reusability
   runtime
   san
   seekable
@@ -182,16 +182,16 @@ our @stopwords = qw(
   shipit
   sigils
   startup
-  storable
-  storages
   stopword
   stopwords
+  storable
+  storages
   stringification
   stringifications
   stringifies
   stringify
-  subdirectory
   subdirectories
+  subdirectory
   subobjects
   terminal's
   tokenizes
@@ -202,13 +202,13 @@ our @stopwords = qw(
   uuid
   value's
   variable's
+  vim
   wellformedness
   whitelist
   whitelists
   workflow
   workflows
   wormhole
-  vim
   yml
 );
 
