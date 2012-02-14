@@ -39,7 +39,9 @@ our @tech_names = qw(
   API
   AspectJ
   Babelfish
+  CamelCase
   CPAN
+  CPANPLUS
   Coro
   DateTime
   Django
@@ -50,15 +52,23 @@ our @tech_names = qw(
   Firefox
   FIXME
   GraphViz
+  GUID
   HTTP
+  HTTPS
+  IETF
   IP
   IPv4
   IPv6
+  IRC
+  ISP
+  ISP's
+  JSON
   MVC
   MakeMaker
   Markdown
   mkdn
   Middleware
+  modulino
   OO
   OOP
   PARC
@@ -67,8 +77,10 @@ our @tech_names = qw(
   PSGI
   README
   ShipIt
+  SMTP
   Spiffy
   SQL
+  SSL
   STDIN
   STDOUT
   STDERR
@@ -78,7 +90,10 @@ our @tech_names = qw(
   UTF
   URI
   URIs
+  URI's
+  UTC
   W3CDTF
+  wiki
   XS
   YAML
   YAML's
@@ -91,6 +106,7 @@ our @stopwords = qw(
   aggregator
   aggregators
   array's
+  analyses
   backend
   behaviour
   benchmarked
@@ -124,6 +140,7 @@ our @stopwords = qw(
   init
   japanese
   Joseki
+  locator
   lookup
   lookups
   kwalitee
