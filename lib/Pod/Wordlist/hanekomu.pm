@@ -47,6 +47,7 @@ our @tech_names = qw(
   DBI
   Django
   DSL
+  EINTR
   EPP
   Firefox
   FirePHP
@@ -121,6 +122,7 @@ our @stopwords = qw(
   callee
   chomp
   chomps
+  chunked
   configurator
   configurators
   crosscutting
@@ -172,6 +174,7 @@ our @stopwords = qw(
   prepends
   preprocessed
   probe's
+  redirections
   redispatch
   ref
   reusability
@@ -194,6 +197,7 @@ our @stopwords = qw(
   subdirectory
   subobjects
   terminal's
+  timestamp
   tokenizes
   toolchain
   unblessed
