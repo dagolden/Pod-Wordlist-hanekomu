@@ -230,5 +230,9 @@ $ENV{LANG} = 'C';
 
 =head1 DESCRIPTION
 
-This module, when loaded, adds stopwords for POD spell checking, that is,
-words that should be ignored by the spell check.
+When loaded, this module automatically adds Test::Spelling stopwords for POD
+spell checking, that is, words that should be ignored by the spell check.
+
+The stopword list includes some CPAN author names, technical terms (e.g.  JSON,
+URI) and other commonly-used words not included in the default word list (e.g.
+mixin, munging).
