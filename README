@@ -2,7 +2,7 @@ NAME
     Pod::Wordlist::hanekomu - Add words for spell checking POD
 
 VERSION
-    version 1.113620
+    version 1.120740
 
 SYNOPSIS
         use Test::Spelling;
@@ -10,17 +10,21 @@ SYNOPSIS
         all_pod_files_spelling_ok('lib');
 
 DESCRIPTION
-    This module, when loaded, adds stopwords for POD spell checking, that
-    is, words that should be ignored by the spell check.
+    When loaded, this module automatically adds Test::Spelling stopwords for
+    POD spell checking, that is, words that should be ignored by the spell
+    check.
+
+    The stopword list includes some CPAN author names, technical terms (e.g.
+    JSON, URI) and other commonly-used words not included in the default
+    word list (e.g. mixin, munging).
 
 INSTALLATION
     See perlmodinstall for information and options on installing Perl
     modules.
 
 BUGS AND LIMITATIONS
-    No bugs have been reported.
-
-    Please report any bugs or feature requests through the web interface at
+    You can make new bug reports, and view existing ones, through the web
+    interface at
     <http://rt.cpan.org/Public/Dist/Display.html?Name=Pod-Wordlist-hanekomu>
     .
 
@@ -28,16 +32,12 @@ AVAILABILITY
     The latest version of this module is available from the Comprehensive
     Perl Archive Network (CPAN). Visit <http://www.perl.com/CPAN/> to find a
     CPAN site near you, or see
-    <http://search.cpan.org/dist/Pod-Wordlist-hanekomu/>.
+    <https://metacpan.org/module/Pod::Wordlist::hanekomu/>.
 
-    The development version lives at
-    <http://github.com/hanekomu/Pod-Wordlist-hanekomu> and may be cloned
-    from <git://github.com/hanekomu/Pod-Wordlist-hanekomu.git>. Instead of
-    sending patches, please fork this project using the standard git and
-    github infrastructure.
+AUTHORS
+    *   Marcel Gruenauer <marcel@cpan.org>
 
-AUTHOR
-    Marcel Gruenauer <marcel@cpan.org>
+    *   David Golden <dagolden@cpan.org>
 
 COPYRIGHT AND LICENSE
     This software is copyright (c) 2009 by Marcel Gruenauer.
