@@ -171,6 +171,9 @@ our @stopwords = qw(
   plugins
   pointcut
   pointcuts
+  pre
+  precompute
+  precomputes
   prepends
   preprocessed
   probe's
@@ -196,6 +199,7 @@ our @stopwords = qw(
   subdirectories
   subdirectory
   subobjects
+  symlinked
   terminal's
   timestamp
   tokenizes
