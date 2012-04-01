@@ -176,6 +176,8 @@ our @stopwords = qw(
   precomputes
   prepends
   preprocessed
+  prereq
+  prereqs
   probe's
   redirections
   redispatch
