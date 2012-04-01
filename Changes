@@ -1,6 +1,8 @@
 Revision history for Perl extension {{$dist->name}}
 
 {{$NEXT}}
+
+1.120920  2012-04-01 11:53:06 Europe/Paris
     - added: prereq(s), pre, precompute, symlinked
 
 1.120740  2012-03-14 16:36:02 EST5EDT
