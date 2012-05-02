@@ -128,6 +128,7 @@ our @stopwords = qw(
   crosscutting
   debugger's
   denormalized
+  deserialized
   distname
   dotfile
   dotfiles
@@ -164,6 +165,7 @@ our @stopwords = qw(
   nestable
   ok
   op
+  parameterizable
   pipe's
   placeholders
   pluggable
