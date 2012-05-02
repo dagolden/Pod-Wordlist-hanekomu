@@ -2,8 +2,8 @@ Revision history for Perl extension {{$dist->name}}
 
 {{$NEXT}}
 
-    - added "deserialized", "parameterizable", "pre", "precompute",
-      "precomputes", "symlinked"
+    - added deserialized, parameterizable, pre, precompute,
+      precomputes, symlinked
 
 1.120920  2012-04-01 11:53:06 Europe/Paris
     - added: prereq(s), pre, precompute, symlinked
