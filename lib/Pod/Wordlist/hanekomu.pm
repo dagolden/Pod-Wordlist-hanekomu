@@ -54,6 +54,7 @@ our @tech_names = qw(
   FIXME
   GraphViz
   GUID
+  GUIDs
   HTTP
   HTTPS
   IETF
@@ -93,6 +94,8 @@ our @tech_names = qw(
   URIs
   UTC
   UTF
+  UUID
+  UUIDs
   W3CDTF
   wiki
   XS
@@ -187,6 +190,7 @@ our @stopwords = qw(
   reusability
   runtime
   san
+  searchable
   seekable
   segment's
   shipit
