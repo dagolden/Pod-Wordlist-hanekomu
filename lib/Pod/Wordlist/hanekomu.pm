@@ -77,6 +77,7 @@ our @tech_names = qw(
   PHP
   Plack
   PSGI
+  RDBMS
   README
   ShipIt
   SMTP
