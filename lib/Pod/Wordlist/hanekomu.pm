@@ -68,6 +68,7 @@ our @tech_names = qw(
   MakeMaker
   Markdown
   Middleware
+  MongoDB
   mkdn
   modulino
   MVC
@@ -83,6 +84,7 @@ our @tech_names = qw(
   SMTP
   Spiffy
   SQL
+  SQLite
   SSL
   STDERR
   STDIN
