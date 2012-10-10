@@ -147,6 +147,7 @@ our @stopwords = qw(
   hostname
   indices
   init
+  iteratively
   japanese
   Joseki
   kwalitee

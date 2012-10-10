@@ -2,6 +2,8 @@ Revision history for Perl extension {{$dist->name}}
 
 {{$NEXT}}
 
+    - added: iteratively
+
 1.121370  2012-05-16 17:02:39 America/New_York
 
     - added: GUIDs, UUID, UUIDs, searchable
