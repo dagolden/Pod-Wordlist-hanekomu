@@ -10,28 +10,25 @@ use utf8;
 our @person_names = qw(
   Achim
   Adam
-  Conway
   Cushing
-  Damian
+  Damian Conway
   Doherty
   Doran
   Eilam
   Ekker
   Florian
-  Gruenauer
+  Marcel Gruenauer
   Heinz
   Helmberger
   Hofstetter
   Lapworth
-  Marcel
   Mark
   Metheringham
-  Miyagawa
   Ran
-  Ricardo
-  Signes
+  Ricardo Signes rjbs
   Takesako
-  Tatsuhiko
+  Tatsuhiko Miyagawa
+  mst
 );
 our @tech_names = qw(
   AnyEvent
@@ -208,6 +205,8 @@ our @stopwords = qw(
   stringifications
   stringifies
   stringify
+  subclass
+  subclasses
   subdirectories
   subdirectory
   subobjects
@@ -216,6 +215,7 @@ our @stopwords = qw(
   timestamp
   tokenizes
   toolchain
+  tuple
   unblessed
   unshifts
   username
