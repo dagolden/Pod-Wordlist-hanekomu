@@ -31,6 +31,7 @@ our @person_names = qw(
   mst
 );
 our @tech_names = qw(
+  AES
   AnyEvent
   AOP
   API
