@@ -2,6 +2,8 @@ Revision history for Perl extension {{$dist->name}}
 
 {{$NEXT}}
 
+1.132680  2013-09-25 14:47:26 America/New_York
+
     - marked as deprecated now that words are merged
       into Pod::Wordlist
 
