@@ -2,7 +2,8 @@ Revision history for Perl extension {{$dist->name}}
 
 {{$NEXT}}
 
-    - added: AES
+    - marked as deprecated now that words are merged
+      into Pod::Wordlist
 
 1.130240  2013-01-23 20:27:57 America/New_York
 

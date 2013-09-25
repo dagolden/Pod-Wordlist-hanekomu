@@ -3,7 +3,7 @@ use strict;
 use warnings;
 
 package Pod::Wordlist::hanekomu;
-# ABSTRACT: Add words for spell checking POD
+# ABSTRACT: Add words for spell checking POD (DEPRECATED)
 use Test::Spelling;
 set_spell_cmd 'aspell list';
 use utf8;
@@ -244,6 +244,14 @@ $ENV{LANG} = 'C';
     use Test::Spelling;
     use Pod::Wordlist::hanekomu;
     all_pod_files_spelling_ok('lib');
+
+=head1 DEPRECATION
+
+All non-name words from this list have been merged into the master L<Pod::Wordlist>
+module.  Names are often grabbed directly from author and contributor metadata
+by relevant tools and are unlikely to be as necessary.
+
+Therefore, this list is no longer maintained.
 
 =head1 DESCRIPTION
 
